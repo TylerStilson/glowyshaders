@@ -6,4 +6,4 @@ if their lanes are open or not, and then give them the opportunity to open and c
 I wrote many scripts to make the api calls to talk to the server and turn the lanes off and on, but they have university info i cant share. So here is the asset folder
 containing the shaders i created in unity, and a moving stary background!
 
-![Semantic description of image](/images/RegisterPic.png "Image Title")
+![Semantic description of image](/images/RegisterPic.PNG "Image Title")
